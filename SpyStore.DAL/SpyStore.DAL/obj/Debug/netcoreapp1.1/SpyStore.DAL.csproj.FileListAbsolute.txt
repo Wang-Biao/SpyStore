@@ -1,0 +1,14 @@
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csprojAssemblyReference.cache
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csproj.CoreCompileInputs.cache
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfoInputs.cache
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfo.cs
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.deps.json
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.json
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.dev.json
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.dll
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.pdb
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.pdb
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csproj.CopyComplete
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.dll
+D:\Technology\WebApp\SpyStore\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.pdb
